@@ -1,7 +1,7 @@
 # Previsão de Vendas Rossmann
 
 <p align="center">
-  <img src="https://github.com/f-mtz/Rossmann_Sales/assets/137197787/cef091c0-90cc-413c-83ed-ef9bb31c94c5" width="100%" height="300">
+  <img src="https://github.com/f-mtz/Rossmann_Sales/assets/img/rossmann.jpg" width="100%" height="300">
 </p>
 
 A companhia Rossmann foi fundada em 1972 é uma das maiores redes de drogarias da Europa, com cerca de 56.200 funcionários e mais de 4000 lojas espalhadas por diversos países. 
