@@ -121,6 +121,7 @@ O modelo previu vendas de R$ 282 milhões para as próximas 6 semanas. Devido ao
 # 9. O produto final do projeto
 WebApp online, hospedado no Streamlit Cloud e integrado com o modelo que está no Render, está disponível para acesso em qualquer dispositivo conectado à internet, possibilitando que qualquer consumidor tenha acesso ao modelo. Você pode acessar o WebApp através do seguinte link: https://rossmann-sales-forecast.streamlit.app/
 
+![image](https://raw.githubusercontent.com/f-mtz/rossmann-sales-predict/main/img/simu.png)
 
 **A imagem acima é do WebApp, como pode se observar na barra lateral tem 3 filtros:**
 - ID Store: Este filtro controla o número das lojas para as quais a previsão será realizada.
