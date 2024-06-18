@@ -70,14 +70,16 @@ Foi empregado o método de gerenciamento CRIPS-DM, que tem como objetivo o desen
 - Mapeamento de todos os possíveis problemas.
 
 O CRIPS-DM é composto pelos seguintes passos: 
-![image](https://github.com/f-mtz/Rossmann_Sales/assets/137197787/f4cac96f-a228-4e28-b5a2-eb16f29d5a39)
+
+![image](https://raw.githubusercontent.com/f-mtz/rossmann-sales-predict/main/img/crisp-ds.png)
+
 
 # 6. Top 2 Insights
 ## 1.0 Lojas com mais promoções consecutivas vendem em média menos.
-![image](https://github.com/f-mtz/Rossmann_Sales/assets/137197787/6cd3c587-2132-466c-b232-48e6c2c0c533)
+![image](https://raw.githubusercontent.com/f-mtz/rossmann-sales-predict/main/img/g1.png)
 
 ## 2.0 Lojas com competidores mais próximos vendem em média mais.
-![image](https://github.com/f-mtz/Rossmann_Sales/assets/137197787/af62eb8f-6d2e-43d9-ac95-004e6a97154e)
+![image](https://raw.githubusercontent.com/f-mtz/rossmann-sales-predict/main/img/g2.png)
 
 # 7. Machine Learning
 - Average Model
@@ -119,7 +121,7 @@ O modelo previu vendas de R$ 282 milhões para as próximas 6 semanas. Devido ao
 # 9. O produto final do projeto
 WebApp online, hospedado no Streamlit Cloud e integrado com o modelo que está no Render, está disponível para acesso em qualquer dispositivo conectado à internet, possibilitando que qualquer consumidor tenha acesso ao modelo. Você pode acessar o WebApp através do seguinte link: https://rossmann-sales-forecast.streamlit.app/
 
-![image](https://github.com/f-mtz/Rossmann_Sales/assets/137197787/c8540192-01d1-41df-9b1a-1bef31cba492)
+
 **A imagem acima é do WebApp, como pode se observar na barra lateral tem 3 filtros:**
 - ID Store: Este filtro controla o número das lojas para as quais a previsão será realizada.
 - Sales: Este filtro estabelece um limite de vendas para as lojas que serão exibidas posteriormente no dataframe.
