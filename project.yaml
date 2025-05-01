@@ -1,9 +1,10 @@
-- title: "Projeto de Previsão de Vendas Rossmann"
+  title: "Projeto de Previsão de Vendas Rossmann"
   image: "images/rossmann.jpg"
   link: "https://github.com/f-mtz/rossmann-sales-predict"
   description: |
     Modelo de previsão de vendas automatizado para a rede de farmácias Rossmann,
     reduzindo a dependência de previsões manuais.
+  show: true
   topics:
     - "Previsão de séries temporais"
     - "Feature engineering"
